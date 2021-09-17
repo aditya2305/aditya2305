@@ -1,5 +1,4 @@
 ### Hi there, I'm Aditya. A software developer by profession, And a cybersecurity hobbyist 💻
-### Hi there, I'm Aditya. A software developer by profession 💻 And a cybersecurity hobbyist 🛡️
 
 <a href="https://github.com/aditya2305">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya2305&hide=issues&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=1"/>
