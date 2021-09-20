@@ -31,7 +31,8 @@
   <a align="right" href="https://github.com/aditya2305/Sharp-Nine" title="Sharp-Nine"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya2305&repo=Sharp-Nine&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<br>
+<br/><br/><br/><br/><br/>
+
 <p align="center">
   <a href="https://github.com/aditya2305">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya2305&hide=issues&count_private=true&show_icons=true&theme=react&include_all_commits=1"/>
