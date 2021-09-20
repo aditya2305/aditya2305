@@ -1,3 +1,5 @@
+<img alt="GIF" src="https://github.com/aditya2305/aditya2305/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ### Hi there, I'm Aditya. A software developer by profession, And a cybersecurity hobbyist 💻
 
 <a href="https://github.com/aditya2305">
