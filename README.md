@@ -34,7 +34,6 @@
 ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=for-the-badge&logo=graphql&logoColor=61dbfb)
 ![HTML5](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5&logoColor=61dbfb)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3&logoColor=61dbfb)
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql&logoColor=61dbfb)
 ![Mongo-DB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=61dbfb)
 ![Heroku](https://img.shields.io/badge/Heroku-333333?style=for-the-badge&logo=heroku&logoColor=61dbfb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&logoColor=61dbfb)
