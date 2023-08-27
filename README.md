@@ -24,6 +24,7 @@
 ![Nodejs](https://img.shields.io/badge/-Node.JS-333333?style=for-the-badge&logo=node.js&logoColor=61dbfb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=61dbfb)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon&logoColor=61dbfb)
+![Go](https://img.shields.io/badge/-Go-333333?style=for-the-badge&logo=go&logoColor=61dbfb)
 ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript&logoColor=61dbfb)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=for-the-badge&logo=angular&logoColor=61dbfb)
 ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express&logoColor=61dbfb)
@@ -43,5 +44,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=61dbfb)
 ![npm](https://img.shields.io/badge/-NPM-333333?style=for-the-badge&logo=npm&logoColor=61dbfb)
 ![yarn](https://img.shields.io/badge/-Yarn-333333?style=for-the-badge&logo=yarn&logoColor=61dbfb)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=for-the-badge&logo=vite&logoColor=61dbfb)
 
 </div>
