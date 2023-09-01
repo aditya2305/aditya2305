@@ -20,6 +20,7 @@
 <div align="center" width="100%">
 
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61dbfb)
+![Next-JS](https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=next.js&logoColor=61dbfb)
 ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=javascript&logoColor=61dbfb)
 ![Nodejs](https://img.shields.io/badge/-Node.JS-333333?style=for-the-badge&logo=node.js&logoColor=61dbfb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=61dbfb)
