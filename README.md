@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-<div align="center" width="100%"> I'm Aditya, a Software Developer passionate about solving problems! </div>
+<div align="center" width="100%"> I'm Aditya, a Software developer passionate about solving problems! </div>
 <div align="center" width="100%"> </div>
 <br>
 
