@@ -1,6 +1,6 @@
 
 
-<div align="center" width="100%">Hey! I'm Aditya, engineer from New Delhi all about tech with impact. </div>
+<div align="center" width="100%">Hey! I'm Aditya, an engineer from New Delhi. </div>
 <div align="center" width="100%"> </div>
 <br>
 
