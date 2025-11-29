@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- **Currently:** Backend development at Flipkart Data platform, exploring big data tools.
+- **Currently:** Software Engineer at Flipkart, exploring big data tools.
 - **Ask Me About:**
   - Java, Spring Framework (Boot, Data, Security), ORMs
   - Relational databases, and scalable backend solutions
